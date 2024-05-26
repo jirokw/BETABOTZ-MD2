@@ -4,7 +4,7 @@ global.prems = ['6289525720818']
 global.nameowner = 'saty'
 global.numberowner = '6289525720818'
 global.mail = 'jiromarket1@gmail.com' 
-global.gc = 'https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR'
+global.gc = 'https://chat.whatsapp.com/COKPLNVIV2UB9WhMXQXWdT'
 global.instagram = 'https://instagram.com/Jirostore2024'
 global.wm = '© saty'
 global.wait = '_*Tunggu sedang di proses...*_'
@@ -15,11 +15,11 @@ global.author = 'Bot WhatsApp'
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
-global.lann = 'YOUR_APIKEY_HERE' 
+global.lann = 'gWUL2mv3' 
 //Daftar terlebih dahulu https://api.betabotz.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.btc = 'YOUR_APIKEY_HERE'
+global.btc = 'wzPkNry9'
 //Daftar https://api.botcahx.eu.org 
 
 global.APIs = {   
@@ -27,8 +27,8 @@ global.APIs = {
   btc: 'https://api.botcahx.eu.org'
 }
 global.APIKeys = { 
-  'https://api.betabotz.eu.org': 'APIKEY', 
-  'https://api.botcahx.eu.org': 'APIKEY'
+  'https://api.betabotz.eu.org': 'gWUL2mv3', 
+  'https://api.botcahx.eu.org': 'wzPkNry9'
 }
 
 let fs = require('fs')
